@@ -3,7 +3,7 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-08T19:33:51.009823+08:00"
+    created: "2024-01-08T20:17:16.707179+08:00"
     description: A Helm chart for Kubernetes
     digest: 085b9630940a639951b886b7f01817f1031dea09c6f189e3d812e8dd2614c645
     name: mychart
@@ -13,7 +13,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-08T19:33:51.009446+08:00"
+    created: "2024-01-08T20:17:16.706608+08:00"
     description: A Helm chart for Kubernetes
     digest: fa903adc2883f980ad479388358ca8d2b2b486832a9846882557e5177aaa20ae
     name: mychart
@@ -33,7 +33,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-08T19:33:51.008681+08:00"
+    created: "2024-01-08T20:17:16.706151+08:00"
     description: A Helm chart for Kubernetes
     digest: 94efe6c7a666b5a428e8251d8c01d0789c83b990f26f7395c2d86b41257d8180
     name: mychart
@@ -41,4 +41,4 @@ entries:
     urls:
     - mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-08T19:33:51.007847+08:00"
+generated: "2024-01-08T20:17:16.705529+08:00"
