@@ -3,6 +3,46 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-01-08T21:19:00.996283+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 8b6f267f7b23f9a2b936692605e1b71d1bbd5c1c775a6643d88723bcfdc0a5ee
+    name: mychart
+    type: application
+    urls:
+    - mychart-5600-build.222.tgz
+    version: 5600-build.222
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-01-08T21:19:00.995831+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 42087964f4c4bd62260c8c7d79c74f6d2a4aed89a212c6747fb2af992b151b0c
+    name: mychart
+    type: application
+    urls:
+    - mychart-5600-a-build.444.tgz
+    version: 5600-a-build.444
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-01-08T21:19:00.995528+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 1076ae74feace4d5d49c8b5e61939fd702af85d5b250aa9e21cd8aeeedcd03a7
+    name: mychart
+    type: application
+    urls:
+    - mychart-5600-a-build.333.tgz
+    version: 5600-a-build.333
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-01-08T21:19:00.995197+08:00"
+    description: A Helm chart for Kubernetes
+    digest: cd399a64d6d5a53b84c0bff57574d4d0c45b13a40c58f3c6f20bf4c064386b2f
+    name: mychart
+    type: application
+    urls:
+    - mychart-5600-a-build.222.tgz
+    version: 5600-a-build.222
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-01-08T20:17:16.707179+08:00"
     description: A Helm chart for Kubernetes
     digest: 085b9630940a639951b886b7f01817f1031dea09c6f189e3d812e8dd2614c645
@@ -41,4 +81,4 @@ entries:
     urls:
     - mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-08T20:17:16.705529+08:00"
+generated: "2024-01-08T21:19:00.993757+08:00"
